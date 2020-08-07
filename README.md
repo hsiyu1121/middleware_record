@@ -1,7 +1,9 @@
 # middleware_伺服器請求紀錄時間
 
 使用Node.js, Express, moment 套件製作而成
-![Alt text](https://github.com/hsiyu1121/account_login/blob/master/Account%20Login.png)
+
+### 相關畫面
+![Alt text](https://github.com/hsiyu1121/middleware_record/blob/master/middleware_time.png)
 
 ## 功能清單
 * 透過瀏覽器瀏覽頁面，在伺服器端可以看到相關的時間戳記
